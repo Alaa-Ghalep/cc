@@ -1,0 +1,25 @@
+swiper-container {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+}
+
+/*  swiper-slide img {
+                display: block;
+                width: 100%;
+            }*/
+
+.owl-item.center .rent-item {
+    background: var(--secondary);
+}
+
+    .owl-item.center .rent-item h4 {
+        color: var(--light);
+    }
